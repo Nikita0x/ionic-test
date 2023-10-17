@@ -1,0 +1,8 @@
+{
+  "name": "ionic-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "cd5a5f14"
+}
